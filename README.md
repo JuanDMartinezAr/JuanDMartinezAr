@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/JuanDMartinezAr/JuanDMartinezAr/blob/main/Banner%20%20Juan%20David%20(%20linkedin).png" width="800"/>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+
+  
+</div>
 ---
  <div id="header" align="left">
 
