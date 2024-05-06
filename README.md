@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/JuanDMartinezAr/JuanDMartinezAr/blob/main/Banner%20%20Juan%20David%20(%20linkedin).png" width="800"/>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+[![Linkedin Badge](https://img.shields.io/badge/-Juan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-martínez-argumedo/)
 
   
 </div>
----
+
  <div id="header" align="left">
 
 ### :man_technologist: Sobre mí :
@@ -18,7 +18,7 @@ Amante de la tecnología y entusiasta de comenzar mi carrera profesional como Da
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Juan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-martínez-argumedo/)
 
-* :juanargunedo@gmail.com
+* :e-mail:juanargunedo@gmail.com
 
 * :phone: +57 3008263459
 
